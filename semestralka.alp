@@ -2037,10 +2037,16 @@ return index;]]></Body>
 											<Name><![CDATA[tankujeZPrava]]></Name>
 										</Parameter>
 										<Parameter>
-											<Name><![CDATA[planovanaPumpa]]></Name>
+											<Name><![CDATA[ideDoUmyvarne]]></Name>
 										</Parameter>
 										<Parameter>
-											<Name><![CDATA[ideDoUmyvarne]]></Name>
+											<Name><![CDATA[chcemTankovat]]></Name>
+										</Parameter>
+										<Parameter>
+											<Name><![CDATA[parTimeAll]]></Name>
+										</Parameter>
+										<Parameter>
+											<Name><![CDATA[parCasPokladna]]></Name>
 										</Parameter>
 									</Parameters>
 									<ReplicationFlag>true</ReplicationFlag>
@@ -4154,7 +4160,7 @@ statDlzkaRaduPumpy7.add(queue6.size(), time());]]></Code>
 						<Parameter>
 							<Name><![CDATA[capacity]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[2]]></Code>
+								<Code><![CDATA[3]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
