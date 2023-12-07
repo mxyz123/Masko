@@ -991,6 +991,7 @@
 						<Point><X>40</X><Y>270</Y></Point>
 						<Point><X>260</X><Y>270</Y></Point>
 						<Point><X>300</X><Y>430</Y></Point>
+						<Point><X>403</X><Y>236</Y></Point>
 						<Point><X>550</X><Y>-40</Y></Point>
 					</Points>
 				</Connector>
